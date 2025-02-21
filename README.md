@@ -16,7 +16,6 @@ These some extensions included in the pack are:
 * `codeium.codeium`: Provides code completion and code analysis for a wide range of programming languages.
 * `davidanson.vscode-markdownlint`: Provides linting for Markdown files.
 * `dbaeumer.vscode-eslint`: Provides linting for JavaScript and TypeScript files.
-* `doggy8088.quicktype-refresh`: Provides code completion for JSON, XML, and other data formats.
 * `dunstontc.vscode-go-syntax`: Provides syntax highlighting for Go files.
 * `eamodio.gitlens`: Provides an integrated set of Git features.
 * `esbenp.prettier-vscode`: Provides code formatting for a wide range of programming languages.
@@ -43,7 +42,6 @@ code --install-extension christian-kohler.path-intellisense
 code --install-extension codeium.codeium
 code --install-extension davidanson.vscode-markdownlint
 code --install-extension dbaeumer.vscode-eslint
-code --install-extension doggy8088.quicktype-refresh
 code --install-extension dunstontc.vscode-go-syntax
 code --install-extension eamodio.gitlens
 code --install-extension esbenp.prettier-vscode
@@ -59,12 +57,9 @@ code --install-extension mhutchie.git-graph
 code --install-extension mikestead.dotenv
 code --install-extension mitchdenny.ecdc
 code --install-extension natqe.reload
-code --install-extension naumovs.color-highlight
 code --install-extension netcorext.uuid-generator
 code --install-extension nicolasvuillamy.vscode-groovy-lint
 code --install-extension oderwat.indent-rainbow
-code --install-extension orta.vscode-jest
-code --install-extension philnash.ngrok-for-vscode
 code --install-extension phplasma.csv-to-table
 code --install-extension pkief.material-icon-theme
 code --install-extension quicktype.quicktype
@@ -78,11 +73,9 @@ code --install-extension ryanluker.vscode-coverage-gutters
 code --install-extension sdras.night-owl
 code --install-extension softwareape.numbermonger
 code --install-extension tyriar.lorem-ipsum
-code --install-extension vincaslt.highlight-matching-tag
 code --install-extension visualstudioexptteam.intellicode-api-usage-examples
 code --install-extension visualstudioexptteam.vscodeintellicode
 code --install-extension visualstudioexptteam.vscodeintellicode-completions
-code --install-extension william-voyek.vscode-nginx
 code --install-extension wmaurer.change-case
 code --install-extension yoavbls.pretty-ts-errors
 code --install-extension yokoe.vscode-postfix-go
