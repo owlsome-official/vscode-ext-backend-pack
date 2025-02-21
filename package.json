@@ -1,0 +1,73 @@
+{
+  "name": "backend-pack",
+  "displayName": "Backend Pack by Owlsome",
+  "description": "A pack of extension for Backend.",
+  "publisher": "owlsome-official",
+  "author": {
+    "name": "Owlsome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owlsome-official"
+  },
+  "icon": "images/icon.png",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "codeium.codeium",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "doggy8088.quicktype-refresh",
+    "dunstontc.vscode-go-syntax",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.code-runner",
+    "foxundermoon.shell-format",
+    "golang.go",
+    "helixquar.randomeverything",
+    "humao.rest-client",
+    "jock.svg",
+    "josee9988.minifyall",
+    "mechatroner.rainbow-csv",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "mitchdenny.ecdc",
+    "natqe.reload",
+    "naumovs.color-highlight",
+    "netcorext.uuid-generator",
+    "nicolasvuillamy.vscode-groovy-lint",
+    "oderwat.indent-rainbow",
+    "orta.vscode-jest",
+    "philnash.ngrok-for-vscode",
+    "phplasma.csv-to-table",
+    "pkief.material-icon-theme",
+    "quicktype.quicktype",
+    "redhat.vscode-yaml",
+    "remisa.shellman",
+    "richie5um2.vscode-sort-json",
+    "rid9.datetime",
+    "romanpeshkov.vscode-text-tables",
+    "rvest.vs-code-prettier-eslint",
+    "ryanluker.vscode-coverage-gutters",
+    "sdras.night-owl",
+    "softwareape.numbermonger",
+    "tyriar.lorem-ipsum",
+    "vincaslt.highlight-matching-tag",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.vscodeintellicode-completions",
+    "william-voyek.vscode-nginx",
+    "wmaurer.change-case",
+    "yoavbls.pretty-ts-errors",
+    "yokoe.vscode-postfix-go",
+    "yzhang.markdown-all-in-one"
+  ]
+}
